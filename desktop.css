@@ -27,10 +27,6 @@ body {
     background-color: black;
 }
 
-.left-header h1 {
-    margin-bottom: -20px;
-}
-
 .left-header h2 {
     background: -webkit-linear-gradient(#FF72E1, #F54C7A);
     -webkit-background-clip: text;
