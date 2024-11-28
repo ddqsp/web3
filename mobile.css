@@ -18,13 +18,14 @@ body {
 }
 
 .left-header h1 {
-    margin-bottom: -20px;
+     margin-top: 0px;
 }
 
 .left-header h2 {
     background: -webkit-linear-gradient(#FF72E1, #F54C7A);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    margin-top: 0px;
 }
 
 
@@ -85,7 +86,7 @@ body {
 .tarot-card {
     width: 250px;
     margin-top: 10px;
-    margin-bottom: -15px
+    margin-bottom: 0px;
 }
 
 
